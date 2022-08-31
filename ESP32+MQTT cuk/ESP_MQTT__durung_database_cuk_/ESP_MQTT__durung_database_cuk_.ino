@@ -6,13 +6,13 @@
 
 TinyGPSPlus gps;
 
-const char* ssid="Bismillah";
-const char* pass="enggatau";
-const char* brokerUser = "madda";
-const char* brokerPass = "kagawa585261";
-const char* broker = "47.250.47.28";
-const char* outTopic ="Displays/espnext01/out";
-const char* inTopic ="Displays/espnext01/in";
+const char* ssid="";
+const char* pass="";
+const char* brokerUser = "";
+const char* brokerPass = "";
+const char* broker = "";
+const char* outTopic ="";
+const char* inTopic ="";
 
 static const int RXPin = 16, TXPin = 17;
 
